@@ -1,0 +1,136 @@
+[
+  {
+    "ConfigName": "apc\\trans.gif",
+    "AccessControlAllowOrigin": "*",
+    "AccessControlExposeHeaders": "X-EndPoint, X-FrontEnd, X-UserHostAddress, X-MSEdge-Ref",
+    "CacheControl": "no-cache, no-store, must-revalidate",
+    "ETag": "0x0DA2C2C0C44B11E89E6C66FF4F731D7D",
+    "TimingAllowOrigin": "*",
+    "XFrontEnd": "AFD"
+  },
+  {
+    "ConfigName": "apc\\17k.gif",
+    "AccessControlAllowOrigin": "*",
+    "AccessControlExposeHeaders": "X-EndPoint, X-FrontEnd, X-UserHostAddress, X-MSEdge-Ref",
+    "CacheControl": "no-cache, no-store, must-revalidate",
+    "ETag": "0xE57FCE5AC44A11E8AECEDCFE4F731D7D",
+    "TimingAllowOrigin": "*",
+    "XFrontEnd": "AFD"
+  },
+  {
+    "ConfigName": "apc\\100k.gif",
+    "AccessControlAllowOrigin": "*",
+    "AccessControlExposeHeaders": "X-EndPoint, X-FrontEnd, X-UserHostAddress, X-MSEdge-Ref",
+    "CacheControl": "no-cache, no-store, must-revalidate",
+    "ETag": "0x01180E66C44B11E881E2EDFE4F731D7D",
+    "TimingAllowOrigin": "*",
+    "XFrontEnd": "AFD"
+  },
+  {
+    "ConfigName": "azure_atmrum\\client\\v1\\atm\\fpv2.min.js",
+    "AccessControlAllowOrigin": "*",
+    "AccessControlExposeHeaders": "X-MSEdge-Ref",
+    "CacheControl": "no-store",
+    "ETag": "0x8D501F7AFB7338D",
+    "TimingAllowOrigin": "*"
+  },
+  {
+    "ConfigName": "azure_atmrum\\conf\\v1\\atm\\fpconfig.min.json",
+    "AccessControlAllowOrigin": "*",
+    "AccessControlExposeHeaders": "X-MSEdge-Ref",
+    "CacheControl": "no-store",
+    "ETag": "0x8D501F7AFB7338D",
+    "TimingAllowOrigin": "*"
+  },
+  {
+    "ConfigName": "azure_atmrum\\rum.js",
+    "AccessControlAllowOrigin": "*",
+    "AccessControlExposeHeaders": "X-MSEdge-Ref",
+    "CacheControl": "no-store",
+    "ETag": "0x8D4FC0223F2F653",
+    "TimingAllowOrigin": "*"
+  },
+  {
+    "ConfigName": "edge_cedexistest\\img\\21222\\r20-100KB.png",
+    "AccessControlAllowOrigin": "*",
+    "AccessControlExposeHeaders": "X-MSEdge-Ref",
+    "CacheControl": "no-store",
+    "ETag": "5b7c8474-19000",
+    "TimingAllowOrigin": "*"
+  },
+  {
+    "ConfigName": "edge_cedexistest\\img\\21222\\r20.gif",
+    "AccessControlAllowOrigin": "*",
+    "AccessControlExposeHeaders": "X-MSEdge-Ref",
+    "CacheControl": "no-store",
+    "ETag": "5b7c8474-2b",
+    "TimingAllowOrigin": "*"
+  },
+  {
+    "ConfigName": "edge_footprint\\apc\\trans.gif",
+    "AccessControlAllowOrigin": "*",
+    "AccessControlExposeHeaders": "X-EndPoint, X-FrontEnd, X-UserHostAddress, X-MSEdge-Ref",
+    "CacheControl": "no-cache, no-store, must-revalidate",
+    "ETag": "0x0DA2C2C0C44B11E89E6C66FF4F731D7D",
+    "TimingAllowOrigin": "*",
+    "XFrontEnd": "AFD"
+  },
+  {
+    "ConfigName": "edge_footprint\\apc\\17k.gif",
+    "AccessControlAllowOrigin": "*",
+    "AccessControlExposeHeaders": "X-EndPoint, X-FrontEnd, X-UserHostAddress, X-MSEdge-Ref",
+    "CacheControl": "no-cache, no-store, must-revalidate",
+    "ETag": "0xE57FCE5AC44A11E8AECEDCFE4F731D7D",
+    "TimingAllowOrigin": "*",
+    "XFrontEnd": "AFD"
+  },
+  {
+    "ConfigName": "edge_footprint\\apc\\100k.gif",
+    "AccessControlAllowOrigin": "*",
+    "AccessControlExposeHeaders": "X-EndPoint, X-FrontEnd, X-UserHostAddress, X-MSEdge-Ref",
+    "CacheControl": "no-cache, no-store, must-revalidate",
+    "ETag": "0x01180E66C44B11E881E2EDFE4F731D7D",
+    "TimingAllowOrigin": "*",
+    "XFrontEnd": "AFD"
+  },
+  {
+    "ConfigName": "edge_testobjects\\cold.gif",
+    "AccessControlAllowOrigin": "*",
+    "AccessControlExposeHeaders": "X-MSEdge-Ref",
+    "CacheControl": "no-store",
+    "ETag": "0x8D2FF4C7F1AA25A",
+    "TimingAllowOrigin": "*"
+  },
+  {
+    "ConfigName": "edge_testobjects\\hot.gif",
+    "AccessControlAllowOrigin": "*",
+    "AccessControlExposeHeaders": "X-MSEdge-Ref",
+    "CacheControl": "no-store",
+    "ETag": "0x8D2FF4C878D5BDB",
+    "TimingAllowOrigin": "*"
+  },
+  {
+    "ConfigName": "edge_testobjects\\img10.gif",
+    "AccessControlAllowOrigin": "*",
+    "AccessControlExposeHeaders": "X-MSEdge-Ref",
+    "CacheControl": "no-store",
+    "ETag": "0x8D2ACEB522CEFD2",
+    "TimingAllowOrigin": "*"
+  },
+  {
+    "ConfigName": "windowsservices_ncsi\\connecttest.txt",
+    "AccessControlAllowOrigin": "*",
+    "AccessControlExposeHeaders": "X-MSEdge-Ref",
+    "CacheControl": "no-store",
+    "ETag": "0x8D343F9E96C9DAC",
+    "TimingAllowOrigin": "*"
+  },
+  {
+    "ConfigName": "windowsservices_ncsi\\ncsi.txt",
+    "AccessControlAllowOrigin": "*",
+    "AccessControlExposeHeaders": "X-MSEdge-Ref",
+    "CacheControl": "no-store",
+    "ETag": "0x8D343F9F578A7F9",
+    "TimingAllowOrigin": "*"
+  }
+]
